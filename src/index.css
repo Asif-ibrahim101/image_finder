@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: #F1F6F9;
+}
+
+.showImages{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 40px;
+        grid-row-gap: 23px;
+}
+
+@media screen and (max-width: 768px) {
+    .showImages{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 40px;
+}
+
+}
