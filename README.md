@@ -36,18 +36,15 @@ To run **ImageFinder** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
+sudo git clone https://github.com/Asif-ibrahim101/image_finder.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/footcap.git
+git clone https://github.com/Asif-ibrahim101/image_finder.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
