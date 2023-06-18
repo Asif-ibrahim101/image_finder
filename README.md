@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+  <h2 align="center">ImageFinder - Find your next image</h2>
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
