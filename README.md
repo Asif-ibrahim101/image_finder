@@ -13,7 +13,7 @@
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  <a href="https://image-finder-reactjs.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Footcap** locally, run this command on your git bash:
+To run **ImageFinder** locally, run this command on your git bash:
 
 Linux and macOS:
 
